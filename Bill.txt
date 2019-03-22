@@ -1,0 +1,1 @@
+Client [id=3 name=Diana address=Observatorului nr 10 email=diana.supermanMovie@yahoo.com age=20] just bought a product Product [id=2 price=14.9 category=Women].The bill status and informations are Order [id=9 shippingStatus=garga]
